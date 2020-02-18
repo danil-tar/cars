@@ -32,19 +32,4 @@ public Boolean getCond() {
 	return cond;
 }
 
-
-public static Car getJeepgc() {
-	return jeepGC;
-}
-
-
-public static Car getVwgolf() {
-	return vwGolf;
-}
-
-
-public static Car getHondaaccord() {
-	return hondaAccord;
-}
-	
 }

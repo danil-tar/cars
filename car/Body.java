@@ -30,19 +30,4 @@ public class Body {
 			return tank;
 		}
 
-		public static Body getSEDAN() {
-			return SEDAN;
-		}
-
-		public static Body getHATCHBACK() {
-			return HATCHBACK;
-		}
-
-		public static Body getSUV() {
-			return SUV;
-		}
-			
-		
-	
-	
 }
